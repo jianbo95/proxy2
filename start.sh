@@ -1,1 +1,1 @@
-proxy2 proxy2.py
+python2 proxy2.py
