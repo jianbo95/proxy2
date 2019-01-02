@@ -1,1 +1,1 @@
-ssserver -c config.json -d start
+proxy2 proxy2.py
